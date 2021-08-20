@@ -1,0 +1,9 @@
+.employee-container{
+    display: flex;
+}
+
+.employees-diteils{
+    width: 70%;
+    margin-left: 30px;
+    margin-right: 5px;
+}
